@@ -18,5 +18,3 @@ export function pageLoad() {
 
 }
 
-//nastavi ovde prema videu koji pratis i pokusavaj sto vise kako ides dalje da radis na tome da samostalno kapiras stvari, ili makar samostalno skapiraj a onda pogledaj kako bi on uradio
-//redovno komituj
